@@ -3,6 +3,7 @@ body{
     font-family: 'baloo_tamma_2regular', Helvetica, Arial, sans-serif;
     line-height: 30px;
     font-size: 20px;
+    background-color: #C9EBFF;
 
 }
 
@@ -49,6 +50,7 @@ main{
     max-width: 1500px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #C9EBFF;
 }
 
 main img{
@@ -93,3 +95,4 @@ p.caption{
     font-style: italic;
     margin-top: 0;
 }
+
